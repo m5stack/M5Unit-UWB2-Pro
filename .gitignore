@@ -59,3 +59,9 @@ bin/
 obj/
 
 *.code-workspace
+
+# Arduino build artifacts and Python cache
+__pycache__/
+*.bin
+*.elf
+*.map
